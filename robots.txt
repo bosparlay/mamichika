@@ -1,6 +1,4 @@
 User-agent: *
 Allow: /
 
-Host: https://mpogame.store
-
 Sitemap: https://mpogame.store/sitemap.xml
